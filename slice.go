@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("halo")
+	fmt.Println("halo ")
 
 	months := [...]string{
 		"Januari",
